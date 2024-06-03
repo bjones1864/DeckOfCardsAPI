@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2vEKy9on3E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\DeckOfCardsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miwol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\views\\home\\drawcardsresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\views\\home\\drawcardsresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\models\\drawcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\models\\drawcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\models\\drawcardsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\models\\drawcardsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|c:\\users\\miwol\\source\\repos\\deckofcardsapi\\deckofcardsapi\\deckofcardsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7BCB0E70-A4CE-4BA7-A86B-F7EBF7A968B4}|DeckOfCardsAPI\\DeckOfCardsAPI.csproj|solutionrelative:deckofcardsapi\\deckofcardsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DeckOfCardsAPI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T20:43:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DeckOfCardsAPI\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T19:28:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawCardsDAL.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Models\\DrawCardsDAL.cs",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\Models\\DrawCardsDAL.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Models\\DrawCardsDAL.cs",
+              "RelativeToolTip": "DeckOfCardsAPI\\Models\\DrawCardsDAL.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:26:06.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DeckOfCardsAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:24:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DeckOfCardsAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T19:23:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawCards.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Models\\DrawCards.cs",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\Models\\DrawCards.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Models\\DrawCards.cs",
+              "RelativeToolTip": "DeckOfCardsAPI\\Models\\DrawCards.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:09:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawCardsResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Views\\Home\\DrawCardsResult.cshtml",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\Views\\Home\\DrawCardsResult.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\Views\\Home\\DrawCardsResult.cshtml",
+              "RelativeToolTip": "DeckOfCardsAPI\\Views\\Home\\DrawCardsResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T19:08:13.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeckOfCardsAPI",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\DeckOfCardsAPI.csproj",
+              "RelativeDocumentMoniker": "DeckOfCardsAPI\\DeckOfCardsAPI.csproj",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\DeckOfCardsAPI\\DeckOfCardsAPI\\DeckOfCardsAPI.csproj",
+              "RelativeToolTip": "DeckOfCardsAPI\\DeckOfCardsAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T19:08:11.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

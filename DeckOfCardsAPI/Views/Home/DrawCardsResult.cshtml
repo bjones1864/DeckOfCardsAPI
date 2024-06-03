@@ -1,0 +1,30 @@
+﻿@model DrawCards
+
+<h1>Your Cards</h1>
+
+<div>
+
+    <table>
+        @{
+            foreach(Card c in Model.cards)
+            {
+                <th>@c.value @c.suit</th>
+            }
+            <tr>
+                @{
+                    foreach (Card c in Model.cards)
+                    {
+                        <td><img src="@c.image" /></td>
+                    }
+                }
+            </tr>
+        }
+    </table>
+
+    <p>Cards Remaining: @Model.remaining</p>
+
+    <form asp-method="post" asp-action="DrawCardsResult" asp-route-deck="@Model.deck_id">
+        <button type="submit">Draw More Cards</button>
+    </form>
+
+</div>
